@@ -1,0 +1,20 @@
+C:\Users\User\source\repos\TAucup\TAucup\bin\Debug\TAucup.exe.config
+C:\Users\User\source\repos\TAucup\TAucup\bin\Debug\TAucup.exe
+C:\Users\User\source\repos\TAucup\TAucup\bin\Debug\TAucup.pdb
+C:\Users\User\source\repos\TAucup\TAucup\obj\Debug\TAucup.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TAucup\TAucup\obj\Debug\TAucup.Form1.resources
+C:\Users\User\source\repos\TAucup\TAucup\obj\Debug\TAucup.Properties.Resources.resources
+C:\Users\User\source\repos\TAucup\TAucup\obj\Debug\TAucup.csproj.GenerateResource.cache
+C:\Users\User\source\repos\TAucup\TAucup\obj\Debug\TAucup.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TAucup\TAucup\obj\Debug\TAucup.exe
+C:\Users\User\source\repos\TAucup\TAucup\obj\Debug\TAucup.pdb
+C:\Users\User\Documents\LAPRAK DKP SEMUA MODUL\TUGAS AKHIR DKP 1 rental mobil amatur\pake ini fix dikit lg\TAucup\TAucup\bin\Debug\TAucup.exe.config
+C:\Users\User\Documents\LAPRAK DKP SEMUA MODUL\TUGAS AKHIR DKP 1 rental mobil amatur\pake ini fix dikit lg\TAucup\TAucup\bin\Debug\TAucup.exe
+C:\Users\User\Documents\LAPRAK DKP SEMUA MODUL\TUGAS AKHIR DKP 1 rental mobil amatur\pake ini fix dikit lg\TAucup\TAucup\bin\Debug\TAucup.pdb
+C:\Users\User\Documents\LAPRAK DKP SEMUA MODUL\TUGAS AKHIR DKP 1 rental mobil amatur\pake ini fix dikit lg\TAucup\TAucup\obj\Debug\TAucup.csprojAssemblyReference.cache
+C:\Users\User\Documents\LAPRAK DKP SEMUA MODUL\TUGAS AKHIR DKP 1 rental mobil amatur\pake ini fix dikit lg\TAucup\TAucup\obj\Debug\TAucup.Form1.resources
+C:\Users\User\Documents\LAPRAK DKP SEMUA MODUL\TUGAS AKHIR DKP 1 rental mobil amatur\pake ini fix dikit lg\TAucup\TAucup\obj\Debug\TAucup.Properties.Resources.resources
+C:\Users\User\Documents\LAPRAK DKP SEMUA MODUL\TUGAS AKHIR DKP 1 rental mobil amatur\pake ini fix dikit lg\TAucup\TAucup\obj\Debug\TAucup.csproj.GenerateResource.cache
+C:\Users\User\Documents\LAPRAK DKP SEMUA MODUL\TUGAS AKHIR DKP 1 rental mobil amatur\pake ini fix dikit lg\TAucup\TAucup\obj\Debug\TAucup.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\LAPRAK DKP SEMUA MODUL\TUGAS AKHIR DKP 1 rental mobil amatur\pake ini fix dikit lg\TAucup\TAucup\obj\Debug\TAucup.exe
+C:\Users\User\Documents\LAPRAK DKP SEMUA MODUL\TUGAS AKHIR DKP 1 rental mobil amatur\pake ini fix dikit lg\TAucup\TAucup\obj\Debug\TAucup.pdb
